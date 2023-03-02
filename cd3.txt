@@ -38,7 +38,7 @@
           <input type="radio" name="size" value="large">L
           <input type="radio" name="size" value="xlarge">XL
           <br/>
-          <input type="checkbox" name="pickup"> I will be picking up my shirt on race day.
+          <input type="checkbox" name="pickup"> I will be picking up my shirt on race day..
 
         </div>
       </fieldset>
