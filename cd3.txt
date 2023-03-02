@@ -29,7 +29,20 @@
         <input type="text" id="postal-code" name="postal-code" />
       </fieldset>
       <fieldset>
-              <button type="button">Submit Form</button>
+        <h3>Additional Information</h3>
+        <label for="size">Shirt Size</label>
+        <div>
+          <input type="radio" name="size" value="xsmall">XS
+          <input type="radio" name="size" value="small">S
+          <input type="radio" name="size" value="medium">M
+          <input type="radio" name="size" value="large">L
+          <input type="radio" name="size" value="xlarge">XL
+          <br/>
+          <input type="checkbox" name="pickup"> I will be picking up my shirt on race day.
+
+        </div>
+      </fieldset>
+      <button type="button">Submit Form</button>
   </div>
 </head>
 
